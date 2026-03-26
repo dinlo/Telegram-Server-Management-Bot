@@ -21,7 +21,7 @@
 2. Узнайте свой ID через [@userinfobot](https://t.me/userinfobot).
 3. Запустите скрипт на сервере:
 ```bash
-wget https://raw.githubusercontent.com/username/repo/main/server_bot.sh
+wget https://raw.githubusercontent.com/dinlo/Telegram-Server-Management-Bot/main/server_bot.sh
 chmod +x server_bot.sh
 sudo ./server_bot.sh
 ```
@@ -43,7 +43,7 @@ sudo ./server_bot.sh
 2. Get your Chat ID via [@userinfobot](https://t.me/userinfobot).
 3. Run the script on your server:
 ```bash
-wget https://raw.githubusercontent.com/username/repo/main/server_bot.sh
+wget https://raw.githubusercontent.com/dinlo/Telegram-Server-Management-Bot/main/server_bot.sh
 chmod +x server_bot.sh
 sudo ./server_bot.sh
 ```
